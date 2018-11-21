@@ -74,7 +74,7 @@ export class GitStashParser {
                         }
                     }
 
-                    if (entry.summary !== undefined) {
+                    if (entry.summary != null && entry.summary.charCodeAt(entry.summary.length - 1) === 10) {
                         // Remove the trailing newline
                         entry.summary = entry.summary.slice(0, -1);
                     }
