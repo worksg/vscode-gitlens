@@ -5,7 +5,7 @@
 
 <p align="center">
   <br />
-  <a title="Learn more about GitLens" href="http://gitlens.amod.io"><img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/gitlens-logo.png" alt="GitLens Logo" /></a>
+  <a title="Learn more about GitLens" href="http://gitlens.amod.io"><img src="https://raw.githubusercontent.com/worksg/vscode-gitlens/master/images/gitlens-logo.png" alt="GitLens Logo" /></a>
 </p>
 
 > GitLens **supercharges** the Git capabilities built into Visual Studio Code. It helps you to **visualize code authorship** at a glance via Git blame annotations and code lens, **seamlessly navigate and explore** Git repositories, **gain valuable insights** via powerful comparison commands, and so much more.
